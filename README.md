@@ -15,7 +15,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn.
 Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/zane-pearton](https://www.linkedin.com/in/joao-cardoso/)">
+  <a href="[https://www.linkedin.com/in/joao-cardoso](https://www.linkedin.com/in/joao-cardoso/)">
     <img src="https://img.shields.io/badge/JoaoCardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
