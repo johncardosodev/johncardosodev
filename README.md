@@ -38,7 +38,7 @@ Feel free to reach out for collaborations, opportunities, or just to exchange id
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=.net&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Bash"/>
