@@ -1,9 +1,8 @@
 ## About me 👋
 🖥 Junior 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 at F3M
 
-[![LinkedIn](![image](![image](https://github.com/user-attachments/assets/5462fd27-02b2-42d5-a985-14e6340a6c81)
-)
-)](https://www.linkedin.com/in/johncardosodev)
+[![LinkedIn](URL_TO_YOUR_LINKEDIN_LOGO_IMAGE)](https://www.linkedin.com/in/yourusername)
+
 
 <!--
 **johncardosodev/johncardosodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
